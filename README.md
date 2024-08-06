@@ -1,2 +1,2 @@
 # QR-Scanner
-Scanner of Linkedin
+ you can scan the Scanner of Linkedin
